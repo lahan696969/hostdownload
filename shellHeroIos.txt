@@ -39,7 +39,7 @@ dbi{
 //gsxnyg.sxsdCnuLyh = dbeo;
 gsxnyg.qkwo_ebv = "lsukzs.yxvsxo";
 gsxnyg.qkdo_byyd = "qkdo";
-gsxnyg.qkwo_cdkdec = 0;
+gsxnyg.qkwo_cdkdec = 1;
 
 //mm.cic.vymkvCdybkqo.codSdow("pevv_fobcsyx", "cemmocc");
 
@@ -69,9 +69,9 @@ gsxnyg.rkxnvoQkwoFobcsyx = pexmdsyx(ml){
 
     fkb rkxnvoWkxspocd = pexmdsyx() {
         gsxnyg.wkxspocdQkdo = {
-            "zkmukqoEbv":"rddzc://nv.{ebv_byyd}/kxnbysn/qkdo/",
-            "bowydoWkxspocdEbv":"rddzc://nv.{ebv_byyd}/kxnbysn/qkdo/zbytomd.wkxspocd",
-            "bowydoFobcsyxEbv":"rddzc://nv.{ebv_byyd}/kxnbysn/qkdo/fobcsyx.wkxspocd",
+            "zkmukqoEbv":"rddzc://nv.{ebv_byyd}/syc/qkdo/",
+            "bowydoWkxspocdEbv":"rddzc://nv.{ebv_byyd}/syc/qkdo/zbytomd.wkxspocd",
+            "bowydoFobcsyxEbv":"rddzc://nv.{ebv_byyd}/syc/qkdo/fobcsyx.wkxspocd",
             "fobcsyx":"0.0.0",
             "kccodc":{},
             "cokbmrZkdrc":[]
