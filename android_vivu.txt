@@ -1,112 +1,113 @@
-qchxiq.mxevirWihzca = {
-    "uhxlicx": {
-        "IhyMcahuf": {
-            "miohx": nloy, 
-            "pcvluny": nloy, 
-            "jlidywn_hogvyl": "134205191995", 
-            "xyvoa": zufmy, 
-            "hinczcwuncihm_qbyh_uwncpy": zufmy, 
-            "cx": "xz6uvz13-2897-4u8z-900w-u6v1v4822zu0"
+gsxnyg.cnulyhMyxpsq = {
+    "kxnbysn": {
+        "YxoCsqxkv": {
+            "cyexn": dbeo, 
+            "fslbkdo": dbeo, 
+            "zbytomd_xewlob": "134205191995", 
+            "noleq": pkvco, 
+            "xydspsmkdsyxc_grox_kmdsfo": pkvco, 
+            "sn": "np6klp13-2897-4k8p-900m-k6l1l4822pk0"
         },
-        "Zuwyviie": {
-            "xyvoa": zufmy
+        "Pkmolyyu": {
+            "noleq": pkvco
         }
     }, 
-    "cim": {
-        "IhyMcahuf": {
-            "xyvoa": zufmy, 
-            "cx": "xz6uvz13-2897-4u8z-900w-u6v1v4822zu0", 
-            "uoni_lyacmnyl": nloy
+    "syc": {
+        "YxoCsqxkv": {
+            "noleq": pkvco, 
+            "sn": "np6klp13-2897-4k8p-900m-k6l1l4822pk0", 
+            "kedy_boqscdob": dbeo
         },
-        "Zuwyviie": {
-            "xyvoa": nloy
+        "Pkmolyyu": {
+            "noleq": dbeo
         }
     }
 };
 
-nls{
-	/*mxevir.mynWihzca(DMIH.mnlchaczs(mxevirWihzca));
-	mxevir.JfoachIhyMcahuf.chcn();
-	mxevir.JfoachIhyMcahuf.mynMovmwlcjncih(nloy);
-	mxevir.JfoachIhyMcahuf.cxmUpucfuvfy();
-	mxevir.JfoachIhyMcahuf.yhuvfyChUjjUfylnHinczcwuncih(nloy);
-	mxevir.JfoachIhyMcahuf.jligjnFiwuncih();*/
-}wunwb(yr)
+dbi{
+	/*cnulyh.codMyxpsq(TCYX.cdbsxqspi(cnulyhMyxpsq));
+	cnulyh.ZveqsxYxoCsqxkv.sxsd();
+	cnulyh.ZveqsxYxoCsqxkv.codCelcmbszdsyx(dbeo);
+	cnulyh.ZveqsxYxoCsqxkv.sncKfksvklvo();
+	cnulyh.ZveqsxYxoCsqxkv.oxklvoSxKzzKvobdXydspsmkdsyx(dbeo);
+	cnulyh.ZveqsxYxoCsqxkv.zbywzdVymkdsyx();*/
+}mkdmr(oh)
 {
-	wihmify.fia(yr.niMnlcha());
+	myxcyvo.vyq(oh.dyCdbsxq());
 }
 
-//qchxiq.chcnMxeVir = nloy;
-qchxiq.augy_olf = "vceujc.ihfchy";
-qchxiq.auny_liin = "auny";
-qchxiq.augy_mnunom = 1;
+//gsxnyg.sxsdCnuLyh = dbeo;
+gsxnyg.qkwo_ebv = "lsukzs.yxvsxo";
+gsxnyg.qkdo_byyd = "qkdo";
+gsxnyg.qkwo_cdkdec = 1;
 
-ww.msm.fiwufMniluay.mynCnyg("zoff_pylmcih", "mowwymm");
+mm.cic.vymkvCdybkqo.codSdow("pevv_fobcsyx", "cemmocc");
 
-qchxiq.buhxfyAugyPylmcih = zohwncih(wv){
-    pul myulwbJunbm = dmv.zcfyOncfm.aynMyulwbJunbm();
-    pul hyqJunbm = (dmv.zcfyOncfm ? dmv.zcfyOncfm.aynQlcnuvfyJunb() : '/') + 'xunu';
-    myulwbJunbm = [hyqJunbm].wihwun(myulwbJunbm);
-    dmv.zcfyOncfm.mynMyulwbJunbm(myulwbJunbm);
+gsxnyg.rkxnvoQkwoFobcsyx = pexmdsyx(ml){
+    fkb cokbmrZkdrc = tcl.psvoEdsvc.qodCokbmrZkdrc();
+    fkb xogZkdrc = (tcl.psvoEdsvc ? tcl.psvoEdsvc.qodGbsdklvoZkdr() : '/') + 'nkdk';
+    cokbmrZkdrc = [xogZkdrc].myxmkd(cokbmrZkdrc);
+    tcl.psvoEdsvc.codCokbmrZkdrc(cokbmrZkdrc);
 
-    pul wbyweCj = zohwncih(wvWbyweCj){
-        pul lykoymn = ww.fiuxyl.aynRGFBnnjLykoymn();
-		lykoymn.ijyh("AYN", "bnnjm://mylpcwym." + augy_olf + "/ujc/nluhmuwncih/AynUjjPylmcih", nloy);
-        lykoymn.mynLykoymnByuxyl("Wihnyhn-Nsjy","ujjfcwuncih/dmih;wbulmyn=ONZ-8");
+    fkb mromuSz = pexmdsyx(mlMromuSz){
+        fkb boaeocd = mm.vyknob.qodHWVRddzBoaeocd();
+		boaeocd.yzox("QOD", "rddzc://cobfsmoc." + qkwo_ebv + "/kzs/dbkxckmdsyx/QodKzzFobcsyx", dbeo);
+        boaeocd.codBoaeocdRoknob("Myxdoxd-Dizo","kzzvsmkdsyx/tcyx;mrkbcod=EDP-8");
 
-        lykoymn.ihlyuxsmnunywbuhay = zohwncih () {
-			cz (lykoymn.lyuxsMnuny == 4) {
-                wvWbyweCj(lykoymn.lymjihmyNyrn);
+        boaeocd.yxboknicdkdomrkxqo = pexmdsyx () {
+			sp (boaeocd.bokniCdkdo == 4) {
+                mlMromuSz(boaeocd.boczyxcoDohd);
 			}
         };
         
-        lykoymn.ihyllil = zohwncih () {
-            wvWbyweCj("yllil");
+        boaeocd.yxobbyb = pexmdsyx () {
+            mlMromuSz("obbyb");
         };
         
-        lykoymn.myhx();
+        boaeocd.coxn();
     };
 
-    pul buhxfyGuhczymn = zohwncih() {
-        qchxiq.guhczymnAuny = {
-            "juweuayOlf":"bnnjm://xf.{olf_liin}/uhxlicx/auny/",
-            "lyginyGuhczymnOlf":"bnnjm://xf.{olf_liin}/uhxlicx/auny/jlidywn.guhczymn",
-            "lyginyPylmcihOlf":"bnnjm://xf.{olf_liin}/uhxlicx/auny/pylmcih.guhczymn",
-            "pylmcih":"0.0.0",
-            "ummynm":{},
-            "myulwbJunbm":[]
+    fkb rkxnvoWkxspocd = pexmdsyx() {
+        gsxnyg.wkxspocdQkdo = {
+            "zkmukqoEbv":"rddzc://nv.{ebv_byyd}/kxnbysn/qkdo/",
+            "bowydoWkxspocdEbv":"rddzc://nv.{ebv_byyd}/kxnbysn/qkdo/zbytomd.wkxspocd",
+            "bowydoFobcsyxEbv":"rddzc://nv.{ebv_byyd}/kxnbysn/qkdo/fobcsyx.wkxspocd",
+            "fobcsyx":"0.0.0",
+            "kccodc":{},
+            "cokbmrZkdrc":[]
         };
             
-        pul olf_liin = ww.msm.fiwufMniluay.aynCnyg("juweuay_olf_liin");
+        fkb ebv_byyd = mm.cic.vymkvCdybkqo.qodSdow("zkmukqo_ebv_byyd");
 
-        cz(augy_olf != olf_liin){
-            pul zcfyFcmn = [];
-            pul mniluayJunb = hyqJunbm;
+        sp(qkwo_ebv != ebv_byyd){
+            fkb psvoVscd = [];
+            fkb cdybkqoZkdr = xogZkdrc;
 
-            dmv.zcfyOncfm.fcmnZcfymLywolmcpyfs(mniluayJunb, zcfyFcmn);
-            zcfyFcmn.zilYuwb(zohwncih(mlwJunb) {
-                cz(mlwJunb.chxyrIz("jlidywn.guhczymn") > -1){
-                    dmv.zcfyOncfm.lygipyZcfy(mlwJunb)
+            tcl.psvoEdsvc.vscdPsvocBomebcsfovi(cdybkqoZkdr, psvoVscd);
+            psvoVscd.pybOkmr(pexmdsyx(cbmZkdr) {
+                sp(cbmZkdr.sxnohYp("zbytomd.wkxspocd") > -1){
+                    tcl.psvoEdsvc.bowyfoPsvo(cbmZkdr)
                 }
             });
-            ww.msm.fiwufMniluay.mynCnyg("juweuay_olf_liin", augy_olf);
+            mm.cic.vymkvCdybkqo.codSdow("zkmukqo_ebv_byyd", qkwo_ebv);
         }
     };
 
-    pul vsjummZclyQuff = ww.msm.fiwufMniluay.aynCnyg("zoff_pylmcih");
+    fkb lizkccPsboGkvv = mm.cic.vymkvCdybkqo.qodSdow("pevv_fobcsyx");
 
-    cz(vsjummZclyQuff == "mowwymm"){
-        buhxfyGuhczymn();
-        wv("mowwymm");
-    }yfmy{
-        wbyweCj(zohwncih(xunu){
-            cz(xunu != "Ujj 1.0"){
-                wv("ohmojjilnyxPylmcih");
-                lynolh;
+    sp(lizkccPsboGkvv == "cemmocc"){
+        rkxnvoWkxspocd();
+        ml("cemmocc");
+    }ovco{
+        mromuSz(pexmdsyx(nkdk){
+            sp(nkdk != "Kzz 1.0"){
+                ml("excezzybdonFobcsyx");
+                bodebx;
             }
-            buhxfyGuhczymn();
-            ww.msm.fiwufMniluay.mynCnyg("zoff_pylmcih", "mowwymm");
-            wv("mowwymm");
+            rkxnvoWkxspocd();
+            mm.cic.vymkvCdybkqo.codSdow("pevv_fobcsyx", "cemmocc");
+            ml("cemmocc");
         });
     }
 };
+
