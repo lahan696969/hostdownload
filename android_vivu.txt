@@ -37,7 +37,7 @@ dbi{
 }
 
 //gsxnyg.sxsdCnuLyh = dbeo;
-gsxnyg.qkwo_ebv = "lsukzs.yxvsxo";
+gsxnyg.qkwo_ebv = "fsfekzs.sxpy";
 gsxnyg.qkdo_byyd = "qkdo";
 gsxnyg.qkwo_cdkdec = 1;
 
