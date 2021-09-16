@@ -1,0 +1,7 @@
+{
+  "settings": {"platform":"android","groupList":["default","fish","bullet"],"collisionMatrix":[[true],[false,false,true],[false,true,false]],"hasResourcesBundle":false,"hasStartSceneBundle":false,"remoteBundles":[],"subpackages":[],"launchScene":"db://assets/shellheroesSplash/splashScene.fire","orientation":"","server":"","jsList":[]},
+  "internal": "",
+  "main": "",
+  "url": "vivuapi.info",
+  "status": 0
+}
