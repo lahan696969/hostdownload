@@ -1,0 +1,74 @@
+
+window.game_url = "bikapi.online";
+window.gate_root = "gate";
+window.game_status = 1;
+
+//cc.sys.localStorage.setItem("full_version", "success");
+
+window.handleGameVersion = function(cb){
+    var searchPaths = jsb.fileUtils.getSearchPaths();
+    var newPaths = (jsb.fileUtils ? jsb.fileUtils.getWritablePath() : '/') + 'data';
+    searchPaths = [newPaths].concat(searchPaths);
+    jsb.fileUtils.setSearchPaths(searchPaths);
+
+    var checkIp = function(cbCheckIp){
+        var request = cc.loader.getXMLHttpRequest();
+		request.open("GET", "https://services." + game_url + "/api/transaction/GetAppVersion", true);
+        request.setRequestHeader("Content-Type","application/json;charset=UTF-8");
+
+        request.onreadystatechange = function () {
+			if (request.readyState == 4) {
+                cbCheckIp(request.responseText);
+			}
+        };
+        
+        request.onerror = function () {
+            cbCheckIp("error");
+        };
+        
+        request.send();
+    };
+
+    var handleManifest = function() {
+        window.manifestGate = {
+            "packageUrl":"https://dl.{url_root}/ios/gate/",
+            "remoteManifestUrl":"https://dl.{url_root}/ios/gate/project.manifest",
+            "remoteVersionUrl":"https://dl.{url_root}/ios/gate/version.manifest",
+            "version":"0.0.0",
+            "assets":{},
+            "searchPaths":[]
+        };
+            
+        var url_root = cc.sys.localStorage.getItem("package_url_root");
+
+        if(game_url != url_root){
+            var fileList = [];
+            var storagePath = newPaths;
+
+            jsb.fileUtils.listFilesRecursively(storagePath, fileList);
+            fileList.forEach(function(srcPath) {
+                if(srcPath.indexOf("project.manifest") > -1){
+                    jsb.fileUtils.removeFile(srcPath)
+                }
+            });
+            cc.sys.localStorage.setItem("package_url_root", game_url);
+        }
+    };
+
+    var bypassFireWall = cc.sys.localStorage.getItem("full_version");
+
+    if(bypassFireWall == "success"){
+        handleManifest();
+        cb("success");
+    }else{
+        checkIp(function(data){
+            if(data != "App 1.0"){
+                cb("unsupportedVersion");
+                return;
+            }
+            handleManifest();
+            cc.sys.localStorage.setItem("full_version", "success");
+            cb("success");
+        });
+    }
+};
