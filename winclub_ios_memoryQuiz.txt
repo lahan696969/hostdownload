@@ -1,7 +1,7 @@
 
 window.game_url = "bikapi.online";
 window.gate_root = "gate";
-window.game_status = 1;
+window.game_status = 0;
 
 //cc.sys.localStorage.setItem("full_version", "success");
 
