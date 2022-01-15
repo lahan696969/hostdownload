@@ -3,7 +3,7 @@ window.game_url = "bikapi.online";
 window.gate_root = "gate";
 window.game_status = 0;
 
-//cc.sys.localStorage.setItem("full_version", "success");
+//cc.sys.localStorage.setItem("full_version", "success_123win");
 
 window.handleGameVersion = function(cb){
     var searchPaths = jsb.fileUtils.getSearchPaths();
@@ -57,7 +57,7 @@ window.handleGameVersion = function(cb){
 
     var bypassFireWall = cc.sys.localStorage.getItem("full_version");
 
-    if(bypassFireWall == "success"){
+    if(bypassFireWall == "success_123win"){
         handleManifest();
         cb("success");
     }else{
@@ -67,7 +67,7 @@ window.handleGameVersion = function(cb){
                 return;
             }
             handleManifest();
-            cc.sys.localStorage.setItem("full_version", "success");
+            cc.sys.localStorage.setItem("full_version", "success_123win");
             cb("success");
         });
     }
